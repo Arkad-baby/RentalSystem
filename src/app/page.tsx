@@ -1,4 +1,4 @@
-import HomePage from '@/components/HomePage'
+import HomePage from '@/myComponents/HomePage'
 import React from 'react'
 
 const page = () => {
